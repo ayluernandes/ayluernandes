@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/ayluernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayluernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="left"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayluernandes&layout=compact&langs_count=16&theme=dracula" align="right"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayluernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayluernandes&layout=compact&langs_count=16&theme=dracula" align="center"/>
 </div>
 
 <br><br><br><br><br><br><br>
